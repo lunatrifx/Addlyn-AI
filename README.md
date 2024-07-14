@@ -7,12 +7,13 @@ Addlyn is the second iteration of a data science project I first made on June 22
 Addlyn took 12 hours to code in total. I did make the 3D rendition of her on Blender and I would say that added another 27 hours since I had to resculpt, rerig then compose and also rig the custom clothing. In total, 39 hours in total was dedicated in bringing my project back to Twitter and now my own website hosted on Github Pages.
 
 
-The one thing I highly suggest to those who want to follow along with this project is to pay attention to where everything is going on your computer and what your workflow on Xcode for Python is. People who are more experienced with Twitter API should get this done in about 4-6 hours.
+The one thing I highly suggest to those who want to follow along with this project is to pay attention to where everything is going on your computer and what your workflow for your IDE is (p.s. DON'T USE Xcode FOR PYTHON!! It is a total pain to work with, but hey CoreML is pretty good.)
 
 ## Currently supported platforms 
 
 Addlyn is recommended to be run on the following platforms with more to come: 
- TBA; currently working a complete overhaul. 
+
+TBA; currently working a complete overhaul. If anything to state at the moment, a computer that is CUDA equipped with 15GB VRAM - in addition to minimum 8GB RAM for general system requirements. Use Tensorflow for CPU if you don't have the latter - it should work fine.
 
 # Version History 
 
