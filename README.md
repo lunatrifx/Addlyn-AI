@@ -16,11 +16,16 @@ Google Colab Pro with High RAM enabled.
 
 **Local Builds:**
 
+WINDOWS/LINUX:
+
 1) 16GB VRAM to 32GB VRAM or greater, as we will be using a modified versions of existing AI models as a basic framework:
 
 * NVIDIA Cosmos Reason 2-8B
 * NVIDIA Parakeet
 * NVIDIA Magpie
+
+MACOS:
+
 
 2) Storage:
 
